@@ -5,16 +5,11 @@ It combines both theoretical explanations and practical design ideas in a simple
 
 
 
-
-
-
-
+🧩 What You'll Find
 Key NLP concepts explained
 Exam-style questions and answers
 Advanced topics (Transformers, RAG, LLMs)
 Practical system design examples
-
-
 
 
 
@@ -36,12 +31,11 @@ NLP Pipelines & Systems
 
 
 
+🎯 Project Goal
 The main goal of this repository is to:
 Simplify NLP concepts
 Help students prepare efficiently for exams
 Provide a quick reference for important topics
-
-
 
 
 
@@ -50,22 +44,23 @@ A complete document containing all questions and answers is available in PDF for
 
 
 
+👉 Access the file here:
+Open NLP Notes
 
 
 
+
+⚠️ Important
 If the file preview does not load, download it directly.
 Make sure to check the latest version of the file for updates.
+
+
+
+
 👩‍💻 Target Audience
 Students studying NLP or AI
 Beginners exploring Natural Language Processing
 Anyone preparing for exams or interviews
-
-
-
-
-
-
-
 🚀 Extra Note
 This project can be extended into:
 NLP mini-projects
