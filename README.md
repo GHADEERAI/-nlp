@@ -44,8 +44,8 @@ A complete document containing all questions and answers is available in PDF for
 
 
 
-👉 Access the file here:
-Open NLP Notes
+👉 يمكنك الوصول إلى الملف من هنا:  
+[Open NLP Notes](./nlp_exam_preparation.pdf)
 
 
 
